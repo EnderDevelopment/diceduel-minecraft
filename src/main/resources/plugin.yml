@@ -1,0 +1,8 @@
+name: DiceDuel
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  diceroll:
+    description: Roll a dice for an attack.
+    usage: /diceroll
